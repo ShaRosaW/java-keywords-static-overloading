@@ -53,6 +53,7 @@ Gegeven:
  * package nl.novi.javaprogrammeren.four
  * MainFour.java
  * Human.java
+ * HumanMaker.java
 
 De volgende regels gelden voor deze opdracht:
  * Er mogen geen aanpassingen gedaan worden in Human

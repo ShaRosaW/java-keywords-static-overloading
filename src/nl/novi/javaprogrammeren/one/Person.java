@@ -52,4 +52,10 @@ public class Person {
     public void setLastNameInsertion(String lastNameInsertion) {
         this.lastNameInsertion = lastNameInsertion;
     }
+
+    public void setFullName(String firstName, String lastNameInsertion, String lastName) {
+        this.firstName = firstName;
+        this.lastNameInsertion = lastNameInsertion;
+        this.lastName = lastName;
+    }
 }
